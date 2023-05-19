@@ -79,7 +79,7 @@
         {
             "cwd": "c:\\Users\\Dell\\Documents\\GitHub\\Chess-Game\\output",
             "binaryPath": "c:\\Users\\Dell\\Documents\\GitHub\\Chess-Game\\output\\main.exe",
-            "binaryArgs": []
+            "binaryArgs": ["Game"]
         }
     ]
 }
